@@ -27,5 +27,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
-Estudiante 1: Juan Camilo Gonzalez
-Estudiante 2: Luis Francisco Escobar
+Estudiante 1: Juan Camilo Gonzalez jc.gonzalezc20 (201911030)
+Estudiante 2: Luis Francisco Escobar lf.escobarg1 (202020323)
